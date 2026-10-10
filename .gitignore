@@ -1,0 +1,11 @@
+# Binarios
+/gotennisson
+*.exe
+
+# Test coverage
+*.out
+coverage.html
+
+# IDEs
+.idea/
+.vscode/
